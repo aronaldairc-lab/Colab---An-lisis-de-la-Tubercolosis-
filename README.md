@@ -1,1 +1,1 @@
-# Colab---An-lisis-de-la-Tubercolosis-
+# Colab---Anlisis-de-la-Tubercolosis-
